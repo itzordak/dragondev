@@ -1,2 +1,3 @@
-# dragondev
-eman1421 kos kesh
+# DragonDev
+
+See wiki on dragonnetworks.ir
